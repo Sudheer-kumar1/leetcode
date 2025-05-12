@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sudheer-kumar1/leetcode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sudheer-kumar1/leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sudheer-kumar1/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sudheer-kumar1/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
