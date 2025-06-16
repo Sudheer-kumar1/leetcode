@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sudheer-kumar1/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sudheer-kumar1/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sudheer-kumar1/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sudheer-kumar1/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sudheer-kumar1/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sudheer-kumar1/leetcode/tree/master/0326-power-of-three) |
