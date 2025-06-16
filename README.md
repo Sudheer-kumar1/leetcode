@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sudheer-kumar1/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Sudheer-kumar1/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Sudheer-kumar1/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -68,8 +69,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sudheer-kumar1/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sudheer-kumar1/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
