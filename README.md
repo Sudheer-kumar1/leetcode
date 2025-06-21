@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sudheer-kumar1/leetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Sudheer-kumar1/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Sudheer-kumar1/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
