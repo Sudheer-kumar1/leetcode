@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sudheer-kumar1/leetcode/tree/master/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/Sudheer-kumar1/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sudheer-kumar1/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/Sudheer-kumar1/leetcode/tree/master/1666-make-the-string-great) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Sudheer-kumar1/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Sudheer-kumar1/leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sudheer-kumar1/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/Sudheer-kumar1/leetcode/tree/master/1666-make-the-string-great) |
 ## Design
 |  |
 | ------- |
