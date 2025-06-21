@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sudheer-kumar1/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0503-next-greater-element-ii](https://github.com/Sudheer-kumar1/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Sudheer-kumar1/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Sudheer-kumar1/leetcode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudheer-kumar1/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sudheer-kumar1/leetcode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Sudheer-kumar1/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sudheer-kumar1/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Sudheer-kumar1/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
