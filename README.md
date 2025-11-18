@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sudheer-kumar1/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sudheer-kumar1/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sudheer-kumar1/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sudheer-kumar1/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudheer-kumar1/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/Sudheer-kumar1/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sudheer-kumar1/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sudheer-kumar1/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sudheer-kumar1/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Sudheer-kumar1/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sudheer-kumar1/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sudheer-kumar1/leetcode/tree/master/0342-power-of-four) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudheer-kumar1/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sudheer-kumar1/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sudheer-kumar1/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Sudheer-kumar1/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sudheer-kumar1/leetcode/tree/master/0739-daily-temperatures) |
